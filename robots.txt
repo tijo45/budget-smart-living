@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://budgetsmartliving.com/sitemap.xml
+Sitemap: https://tijo45.github.io/budget-smart-living/sitemap.xml
 
 # Crawl-delay (optional - helps prevent server overload)
 Crawl-delay: 1
