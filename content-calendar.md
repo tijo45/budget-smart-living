@@ -74,9 +74,9 @@
 | **10** | Best Balance Transfer Credit Cards: 0% APR Options for 2026 | best balance transfer credit cards | High | $$$$$ | 🟢 Week 5 | ✅ Written |
 | **11** | Best Budget Smartphones Under $300 (2026) | best budget smartphones under 300 | Very High | $$$ | 🟢 Week 5 | ✅ Written |
 | **12** | Best Coupon Apps That Actually Save You Money | best coupon apps | High | $$$ | 🟢 Week 6 | ✅ Written |
-| **13** | Best Student Bank Accounts with No Fees | best student bank accounts | Medium | $$$$ | 🟢 Week 6 | Planned |
-| **14** | Best Pet Insurance for Dogs: Affordable Coverage Compared | best pet insurance for dogs affordable | High | $$$$ | 🔵 Week 7 | Planned |
-| **15** | Best Identity Theft Protection Services (Budget Picks) | best identity theft protection | Medium | $$$$ | 🔵 Week 7 | Planned |
+| **13** | Best Student Bank Accounts with No Fees | best student bank accounts | Medium | $$$$ | 🟢 Week 6 | ✅ Written |
+| **14** | Best Pet Insurance for Dogs: Affordable Coverage Compared | best pet insurance for dogs affordable | High | $$$$ | 🔵 Week 7 | ✅ Written |
+| **15** | Best Identity Theft Protection Services (Budget Picks) | best identity theft protection | Medium | $$$$ | 🔵 Week 7 | ✅ Written |
 | **16** | Best Free Online Savings Calculators & Tools | best savings calculators | Medium | $$ | 🔵 Week 8 | Planned |
 | **17** | Best Grocery Delivery Services for Saving Money | cheapest grocery delivery service | High | $$$ | 🔵 Week 8 | Planned |
 | **18** | Best Budgeting Books for Beginners (2026 Reading List) | best budgeting books | Medium | $$ | 🔵 Week 9 | Planned |
