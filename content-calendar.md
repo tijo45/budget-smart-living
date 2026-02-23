@@ -68,9 +68,9 @@
 | **4** | Best Personal Loans for Debt Consolidation: Compare Rates & Terms | best personal loan for debt consolidation | High | $$$$$ | 🟡 Week 2 | ✅ Written |
 | **5** | Cheapest Car Insurance for Young Drivers: Save Up to 40% | cheapest car insurance young drivers | High | $$$$ | 🟡 Week 2 | ✅ Written |
 | **6** | Best Tax Software for Self-Employed: Freelancer & 1099 Guide | best tax software self employed | Seasonal High | $$$$ | 🟡 Week 3 | ✅ Written |
-| **7** | Best Prepaid Debit Cards with No Monthly Fees | best prepaid debit cards no fees | Medium | $$$ | 🟡 Week 3 | Planned |
-| **8** | Cheapest Renters Insurance: Protect Your Home for Under $15/Month | cheapest renters insurance | Medium | $$$$ | 🟢 Week 4 | Planned |
-| **9** | Best Money Transfer Apps with Low Fees: Send Money for Less | best money transfer apps low fees | Medium | $$$ | 🟢 Week 4 | Planned |
+| **7** | Best Prepaid Debit Cards with No Monthly Fees | best prepaid debit cards no fees | Medium | $$$ | 🟡 Week 3 | ✅ Written |
+| **8** | Cheapest Renters Insurance: Protect Your Home for Under $15/Month | cheapest renters insurance | Medium | $$$$ | 🟢 Week 4 | ✅ Written |
+| **9** | Best Money Transfer Apps with Low Fees: Send Money for Less | best money transfer apps low fees | Medium | $$$ | 🟢 Week 4 | ✅ Written |
 | **10** | Best Balance Transfer Credit Cards: 0% APR Options for 2026 | best balance transfer credit cards | High | $$$$$ | 🟢 Week 5 | Planned |
 | **11** | Best Budget Smartphones Under $300 (2026) | best budget smartphones under 300 | Very High | $$$ | 🟢 Week 5 | Planned |
 | **12** | Best Coupon Apps That Actually Save You Money | best coupon apps | High | $$$ | 🟢 Week 6 | Planned |
