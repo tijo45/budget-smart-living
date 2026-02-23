@@ -65,9 +65,9 @@
 | **1** | Best Cheap Meal Kit Delivery Services: Budget-Friendly Options Compared | best cheap meal kit delivery | High | $$$$ | 🔴 WRITE NOW | ✅ Written |
 | **2** | Best Robo-Advisors for Beginners: Hands-Off Investing Guide 2026 | best robo advisors for beginners | High | $$$$$ | 🔴 WRITE NOW | ✅ Written |
 | **3** | Best Cashback Credit Cards of 2026: Earn Money on Every Purchase | best cashback credit cards 2026 | Very High | $$$$$ | 🔴 WRITE NOW | ✅ Written |
-| **4** | Best Personal Loans for Debt Consolidation: Compare Rates & Terms | best personal loan for debt consolidation | High | $$$$$ | 🟡 Week 2 | Planned |
-| **5** | Cheapest Car Insurance for Young Drivers: Save Up to 40% | cheapest car insurance young drivers | High | $$$$ | 🟡 Week 2 | Planned |
-| **6** | Best Tax Software for Self-Employed: Freelancer & 1099 Guide | best tax software self employed | Seasonal High | $$$$ | 🟡 Week 3 | Planned |
+| **4** | Best Personal Loans for Debt Consolidation: Compare Rates & Terms | best personal loan for debt consolidation | High | $$$$$ | 🟡 Week 2 | ✅ Written |
+| **5** | Cheapest Car Insurance for Young Drivers: Save Up to 40% | cheapest car insurance young drivers | High | $$$$ | 🟡 Week 2 | ✅ Written |
+| **6** | Best Tax Software for Self-Employed: Freelancer & 1099 Guide | best tax software self employed | Seasonal High | $$$$ | 🟡 Week 3 | ✅ Written |
 | **7** | Best Prepaid Debit Cards with No Monthly Fees | best prepaid debit cards no fees | Medium | $$$ | 🟡 Week 3 | Planned |
 | **8** | Cheapest Renters Insurance: Protect Your Home for Under $15/Month | cheapest renters insurance | Medium | $$$$ | 🟢 Week 4 | Planned |
 | **9** | Best Money Transfer Apps with Low Fees: Send Money for Less | best money transfer apps low fees | Medium | $$$ | 🟢 Week 4 | Planned |
