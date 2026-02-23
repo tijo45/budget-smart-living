@@ -71,9 +71,9 @@
 | **7** | Best Prepaid Debit Cards with No Monthly Fees | best prepaid debit cards no fees | Medium | $$$ | 🟡 Week 3 | ✅ Written |
 | **8** | Cheapest Renters Insurance: Protect Your Home for Under $15/Month | cheapest renters insurance | Medium | $$$$ | 🟢 Week 4 | ✅ Written |
 | **9** | Best Money Transfer Apps with Low Fees: Send Money for Less | best money transfer apps low fees | Medium | $$$ | 🟢 Week 4 | ✅ Written |
-| **10** | Best Balance Transfer Credit Cards: 0% APR Options for 2026 | best balance transfer credit cards | High | $$$$$ | 🟢 Week 5 | Planned |
-| **11** | Best Budget Smartphones Under $300 (2026) | best budget smartphones under 300 | Very High | $$$ | 🟢 Week 5 | Planned |
-| **12** | Best Coupon Apps That Actually Save You Money | best coupon apps | High | $$$ | 🟢 Week 6 | Planned |
+| **10** | Best Balance Transfer Credit Cards: 0% APR Options for 2026 | best balance transfer credit cards | High | $$$$$ | 🟢 Week 5 | ✅ Written |
+| **11** | Best Budget Smartphones Under $300 (2026) | best budget smartphones under 300 | Very High | $$$ | 🟢 Week 5 | ✅ Written |
+| **12** | Best Coupon Apps That Actually Save You Money | best coupon apps | High | $$$ | 🟢 Week 6 | ✅ Written |
 | **13** | Best Student Bank Accounts with No Fees | best student bank accounts | Medium | $$$$ | 🟢 Week 6 | Planned |
 | **14** | Best Pet Insurance for Dogs: Affordable Coverage Compared | best pet insurance for dogs affordable | High | $$$$ | 🔵 Week 7 | Planned |
 | **15** | Best Identity Theft Protection Services (Budget Picks) | best identity theft protection | Medium | $$$$ | 🔵 Week 7 | Planned |
